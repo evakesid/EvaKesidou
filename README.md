@@ -1,4 +1,6 @@
-## 👋 Hi, I'm Evangelia, but I go by Eva for convenience.
+## 👋 Hi, I'm Evangelia, 
+
+but you can call me Eva for convenience.
 
 Currently wrapping up my MSc in Digital Marketing, I've spent the last year building real projects with real tools: from GA4 reports and WordPress websites to SEO strategies, campaign content and HTML/CSS builds.
 
